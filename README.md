@@ -1,4 +1,5 @@
 # SEEL5123-AdvanceMicroprocessor_Milestone4
+<h2>Important: Please read the pdf documents for further clarification</h2>
 <h2>1. Software/Tools setup </h2>
 <p>  In this project, STM32CubeIDE is used as the development environment. Some external libraries are imported for signal processing steps, such as the DSP library. For the hardware, the Nucleo-F446RE board and INMP441 Microphone is used.</p>
 
