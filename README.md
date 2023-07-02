@@ -4,7 +4,9 @@
 
 <h2>2. Configuration Steps </h2>
 <h3>DMA Configuration</h3>
+
 <h3>UASRT2 Configuration</h3>
+
 <h3>I2S2 Configuration</h3>
 
 <h2>3. Steps for firmware development </h2>
